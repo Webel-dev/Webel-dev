@@ -1,16 +1,22 @@
-## Hi there 👋
+# 🟥 Webel
 
-<!--
-**Webel-dev/Webel-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desempregado`**
 
-Here are some ideas to get you started:
+Faço vídeos e estudo pra ser garoto de programa focado em Front-End. 
+<img  
+ align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="200px" 
+    style="padding-right: 10px;" 
+    src="https://w0.peakpx.com/wallpaper/399/1018/HD-wallpaper-anime-original-computer-girl-glasses.jpg">
+</img>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔴 YouTube | [Noise_DD](https://www.youtube.com/@NoiseAMV)
+
+🔵 Twitter | [Webel](https://x.com/Webel_)
+
+⚫ TikTok | [Noise](https://www.tiktok.com/@noiseamv)
+
+
+### 
